@@ -2,7 +2,7 @@
 ### My name is Gabriel and my nickname is "BYELORDY"!
 
 <! --
-**home/byelordy** is a special resource ✨ ✨ because its `README.md` (this file appears in your GitHub profile).
+**home/byelordy** is a special resource ✨ ✨ because its `README.md`
 
 - 🔭 I am currently working on Personal Projects.
 - 🌱 I am currently updating Professional Pentesting
