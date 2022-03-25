@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is SeuNomeAqui and my nickname is "BYELORDY"!
+### My name is Gabriel and my nickname is "BYELORDY"!
 
 <! --
 **home/byelordy** is a special resource ✨ ✨ because its `README.md` (this file appears in your GitHub profile).
